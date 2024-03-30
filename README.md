@@ -6,11 +6,11 @@ A simple calculator build in TypeScript using Inquirer
 1. Clone or download this repository
 2. Open the folder in your terminal
 3. Run `npm install` to install the dependencies
-4. Run `node index` to start the calculator
+4. Run `npx calculator` to start the calculator
 
 ## Features
 
-* Simple arithmetic operations (+, -, \*, /)
+* Simple arithmetic operations (+, -, \*, /, √, %)
 * Addition
 * Subtraction
 * Multiplication
