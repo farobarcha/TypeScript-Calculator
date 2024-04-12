@@ -1,5 +1,6 @@
 {
-  "name": "typescript-calculator",
+  "name": "@farhanbarcha/typescript-calculator",
+  "description": "A simple CLI based Calculator to perform basic arithmetic operations",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
