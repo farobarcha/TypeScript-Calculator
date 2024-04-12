@@ -1,5 +1,5 @@
 {
-  "name": "typescript-calculator",
+  "name": "typescript-piaic-calculator",
   "description": "A simple CLI based Calculator to perform basic arithmetic operations",
   "version": "1.0.0",
   "type": "module",
